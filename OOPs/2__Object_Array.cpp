@@ -25,9 +25,9 @@ int main()
     Student s[3];
 
     // Set data for each student
-    s[0].setData("Amit", 1);
-    s[1].setData("Bhisham", 2);
-    s[2].setData("Riya", 3);
+    s[0].setData("A", 1);
+    s[1].setData("B", 2);
+    s[2].setData("C", 3);
 
     // Display all students
     for (int i = 0; i < 3; i++)
